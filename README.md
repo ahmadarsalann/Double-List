@@ -1,5 +1,7 @@
 # Playlist-Manager
 
+The program idea belongs to my professor Ian Finalayson
+
 DataStructure Used:
 Linked List
 
